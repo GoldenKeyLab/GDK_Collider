@@ -1,3 +1,5 @@
+Preview:https://www.youtube.com/watch?v=W-rM_hn60Rk
+
 download_win：https://www.goldenkey.dev/Download/Goldenkey_v311.rar
 download_mac：https://www.goldenkey.dev/Download/GoldenKeyForMac.zip
 download_Mobile：https://www.goldenkey.dev/Download/GDK_Openx1_v100.apk
