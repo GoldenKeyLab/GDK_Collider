@@ -2,7 +2,9 @@
 https://www.youtube.com/watch?v=W-rM_hn60Rk
 
 下载_win：https://www.goldenkey.dev/Download/Goldenkey_v311.rar
+
 下载_mac：https://www.goldenkey.dev/Download/GoldenKeyForMac.zip
+
 下载_Mobile：https://www.goldenkey.dev/Download/GDK_Openx1_v100.apk
 
 Telegram:
